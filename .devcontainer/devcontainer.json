@@ -1,0 +1,11 @@
+{
+  "image": "rocker/r-ver:latest",
+  "features": {
+  },
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "PYTHONUNBUFFERED": "1"
+  }
+}
